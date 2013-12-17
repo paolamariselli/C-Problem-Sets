@@ -1,4 +1,4 @@
-CS-Problem-Sets-I
+C-Problem-Sets
 =================
 
 Various computer science problem sets.
